@@ -1,0 +1,323 @@
+{
+  "business": {
+    "name": "Ross Handyman & General Repairs",
+    "shortName": "Ross Handyman",
+    "tagline": "Expert Repairs & Upgrades for Dallas Homes",
+    "niche": "Handyman",
+    "phone": "(972) 776-2555",
+    "address": "3310 Ross Ave, Dallas, TX 75204",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
+    "ctaLabel": "Book a Service",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Ross Handyman & General Repairs | Dallas Handyman Services",
+    "description": "Reliable handyman services in Dallas, TX. Expert repairs, installations, and home maintenance. Call (972) 776-2555 for fast, professional service."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas’s Trusted Handyman",
+      "headline": "Your Home Repairs, Done Right",
+      "subheadline": "From leaky faucets to drywall patches, we handle it all with skill and care.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "See Our Services"
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "500+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Home Maintenance",
+        "title": "Keep Your Home in Top Shape",
+        "body": "Regular maintenance prevents costly repairs. We offer seasonal checks, minor fixes, and preventive care to keep your home running smoothly.",
+        "bullets": [
+          "Inspect and fix minor issues before they escalate",
+          "Seasonal maintenance plans available",
+          "Same-day service for urgent repairs"
+        ],
+        "reverse": false,
+        "cardLabel": "Popular",
+        "cardTitle": "Plumbing Repairs",
+        "cardBody": "Fixing leaky faucets, running toilets, and clogged drains. Fast, reliable service."
+      },
+      {
+        "eyebrow": "Home Upgrades",
+        "title": "Enhance Your Living Space",
+        "body": "Whether it's installing a new ceiling fan or mounting a TV, we handle upgrades with precision and care, leaving your home looking its best.",
+        "bullets": [
+          "TV mounting, shelving, and furniture assembly",
+          "Light fixture and ceiling fan installation",
+          "Smart home device setup"
+        ],
+        "reverse": true,
+        "cardLabel": "Upgrade",
+        "cardTitle": "Fixture Installation",
+        "cardBody": "Professional installation of lighting, faucets, and more. We ensure everything is secure and functional."
+      }
+    ],
+    "whyTitle": "Why Choose Ross Handyman?",
+    "whyChooseUs": [
+      {
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured for your peace of mind. We meet all Dallas requirements."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees. We provide upfront estimates before any work begins."
+      },
+      {
+        "title": "Skilled Craftsmanship",
+        "description": "Our team has years of experience in carpentry, plumbing, electrical, and more."
+      },
+      {
+        "title": "Customer First",
+        "description": "We listen to your needs and deliver solutions that exceed expectations."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Ross Handyman fixed a tricky drywall issue in my living room. The patch is seamless and the paint match is perfect.",
+        "author": "Mike R.",
+        "role": "Lakewood homeowner"
+      },
+      {
+        "quote": "I called them for a leaky faucet and they arrived same day. Fixed quickly and left the area spotless.",
+        "author": "Linda T.",
+        "role": "Uptown resident"
+      },
+      {
+        "quote": "They installed ceiling fans in three rooms. Affordable, fast, and professional. Highly recommend.",
+        "author": "Chris D.",
+        "role": "Oak Lawn homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready for Reliable Repairs?",
+      "subheadline": "Call us today or book online for fast, professional service.",
+      "primaryCta": "Call (972) 776-2555",
+      "secondaryCta": "Get a Free Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "From small fixes to major upgrades, Ross Handyman offers a full range of home repair and maintenance services in Dallas. We bring skill, reliability, and a friendly approach to every job."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Plumbing Repairs",
+      "shortDescription": "Fix leaks, clogs, and fixtures quickly.",
+      "longDescription": "Our plumbing services cover everything from dripping faucets and running toilets to pipe repairs and fixture replacements. We diagnose issues accurately and fix them right the first time.",
+      "benefits": [
+        "Fast response to prevent water damage",
+        "Quality parts and workmanship",
+        "Upfront pricing with no surprises"
+      ],
+      "process": [
+        {
+          "title": "Diagnose",
+          "description": "We inspect the issue and identify the root cause."
+        },
+        {
+          "title": "Repair",
+          "description": "We use professional tools and parts to complete the fix."
+        },
+        {
+          "title": "Test",
+          "description": "We run water and check for leaks to ensure everything works."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How quickly can you respond to a plumbing emergency?",
+          "answer": "We offer same-day service for urgent repairs. Call us and we’ll prioritize your issue."
+        },
+        {
+          "question": "Do you replace old pipes?",
+          "answer": "Yes, we can replace sections of pipe or full runs if needed. We’ll advise on the best solution."
+        }
+      ],
+      "slug": "plumbing-repairs"
+    },
+    {
+      "icon": "02",
+      "title": "Electrical Services",
+      "shortDescription": "Safe and code-compliant electrical work.",
+      "longDescription": "From installing new outlets and switches to ceiling fans and light fixtures, our electrical services are performed with safety and code compliance in mind. We handle both small repairs and larger installations.",
+      "benefits": [
+        "Licensed electricians on staff",
+        "All work meets local codes",
+        "Energy-efficient recommendations"
+      ],
+      "process": [
+        {
+          "title": "Consult",
+          "description": "We discuss your needs and assess the existing wiring."
+        },
+        {
+          "title": "Install/Repair",
+          "description": "We perform the work safely and neatly."
+        },
+        {
+          "title": "Inspect",
+          "description": "We test all connections and ensure proper function."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install a new outlet in an old home?",
+          "answer": "Yes, we can add outlets and upgrade wiring to meet modern demands while preserving your walls."
+        },
+        {
+          "question": "Do you handle panel upgrades?",
+          "answer": "We can replace or upgrade electrical panels to increase capacity and safety."
+        }
+      ],
+      "slug": "electrical-services"
+    },
+    {
+      "icon": "03",
+      "title": "Carpentry & Drywall",
+      "shortDescription": "Custom shelves, trim, and wall repairs.",
+      "longDescription": "Our carpentry services include custom shelving, baseboards, crown molding, and door repairs. We also patch drywall holes, repair cracks, and texture match for invisible fixes.",
+      "benefits": [
+        "Custom solutions for your space",
+        "Seamless drywall repairs",
+        "Quality materials and finishes"
+      ],
+      "process": [
+        {
+          "title": "Measure",
+          "description": "We take precise measurements and discuss design."
+        },
+        {
+          "title": "Build/Repair",
+          "description": "We cut, install, and finish with attention to detail."
+        },
+        {
+          "title": "Finish",
+          "description": "We sand, paint, or stain to match existing surfaces."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you match existing drywall texture?",
+          "answer": "Yes, we use techniques to replicate common textures like orange peel, knockdown, or smooth."
+        },
+        {
+          "question": "Do you build custom bookshelves?",
+          "answer": "Absolutely. We design and build built-in or freestanding shelves to your specifications."
+        }
+      ],
+      "slug": "carpentry-drywall"
+    },
+    {
+      "icon": "04",
+      "title": "General Home Maintenance",
+      "shortDescription": "Seasonal checks and minor repairs.",
+      "longDescription": "Keep your home in excellent condition with our general maintenance services. We handle gutter cleaning, caulking, weatherstripping, furniture assembly, and more. Perfect for busy homeowners.",
+      "benefits": [
+        "Preventative care saves money",
+        "Flexible scheduling",
+        "One call covers all small tasks"
+      ],
+      "process": [
+        {
+          "title": "List",
+          "description": "You tell us what needs attention; we create a plan."
+        },
+        {
+          "title": "Execute",
+          "description": "We complete each task efficiently."
+        },
+        {
+          "title": "Review",
+          "description": "We walk through with you to ensure satisfaction."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer maintenance packages?",
+          "answer": "Yes, we have seasonal plans that include inspections and routine tasks. Contact us for details."
+        },
+        {
+          "question": "Can you assemble furniture from IKEA?",
+          "answer": "Yes, we assemble all types of furniture quickly and correctly."
+        }
+      ],
+      "slug": "general-home-maintenance"
+    }
+  ],
+  "about": {
+    "headline": "Dallas’s Go-To Handyman Since 2009",
+    "mission": "To provide Dallas homeowners with reliable, high-quality handyman services that make life easier and homes better.",
+    "story": [
+      "Ross Handyman & General Repairs started as a small operation serving neighbors in the Ross Avenue area. With a focus on honest work and fair prices, we quickly built a reputation for reliability. Over the years, we’ve expanded our skills to cover plumbing, electrical, carpentry, and more.",
+      "Today, we serve the entire Dallas metro with a team of experienced professionals. We take pride in every job, big or small, and treat your home with the same respect we’d give our own."
+    ],
+    "highlight": {
+      "stat": "500+",
+      "label": "Happy Customers Served"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We do what we say and stand behind our work."
+      },
+      {
+        "title": "Quality",
+        "description": "We use the best materials and techniques for lasting results."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your home and time with care."
+      },
+      {
+        "title": "Community",
+        "description": "We’re proud to serve and support our Dallas neighbors."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get Your Free Estimate",
+    "subheadline": "Tell us about your project and we’ll get back to you within 24 hours.",
+    "primaryCta": "Call (972) 776-2555",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Uptown",
+      "Oak Lawn",
+      "Preston Hollow"
+    ]
+  },
+  "social_proof": {
+    "rating": 1.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Handyman",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:9727762555",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
